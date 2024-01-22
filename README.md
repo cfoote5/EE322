@@ -12,4 +12,4 @@
 ##### Block Quote
 > Cooper Foote
 ###### Image
-![Stevens Logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FStevens1870%2F&psig=AOvVaw2dAIx8pEb77JyRhfTd26oB&ust=1706028223233000&source=images&cd=vfe&ved=0CBMQjRxqFwoTCPC45sO48YMDFQAAAAAdAAAAABAE)
+![Stevens Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ45GZEOnVrR5PVJeY95ao65QqnQBBs4HqO7pBe-cQeMg&s)
