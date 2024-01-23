@@ -8,7 +8,7 @@
 1. George Washington
 1. John Adams
 1. Thomas Jefferson
-
+---
 ##### Block Quote
 > Cooper Foote
 ###### Image
