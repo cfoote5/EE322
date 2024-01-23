@@ -1,4 +1,4 @@
-# **Cooper Foote**
+# **Cooper Foote**<-- BOLD
 ## *Cooper Foote*
 ### Unordered List
 - George Washington
