@@ -10,7 +10,7 @@
 1. John Adams
 1. Thomas Jefferson
 ---
-'Code'
+'code'
 #### Block Quote
 > Cooper Foote
 ##### Image
