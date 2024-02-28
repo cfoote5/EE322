@@ -1,0 +1,12 @@
+# Lab 2
+![](https://github.com/cfoote5/EE322/blob/main/images/hostname.png)
+![](https://github.com/cfoote5/EE322/blob/main/images/env1.png)
+![](https://github.com/cfoote5/EE322/blob/main/images/env2.png)
+![](https://github.com/cfoote5/EE322/blob/main/images/ps.png)
+![](https://github.com/cfoote5/EE322/blob/main/images/pwd.png)
+![](https://github.com/cfoote5/EE322/blob/main/images/gitclone.png)
+![](https://github.com/cfoote5/EE322/blob/main/images/uptocddemo.png)
+![](https://github.com/cfoote5/EE322/blob/main/images/nanofile.png)
+![](https://github.com/cfoote5/EE322/blob/main/images/uptorm.png)
+![](https://github.com/cfoote5/EE322/blob/main/images/Screenshot%202024-02-27%20203446.png)
+![](https://github.com/cfoote5/EE322/blob/main/images/Screenshot%202024-02-27%20203530.png)
